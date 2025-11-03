@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there, I'm Shawn!
 
-<!--
-**sed1177/sed1177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | 🎯 Passion for Web & AI Development
+---
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- **Languages:** JavaScript, TypeScript, Python, SQL  
+- **Frameworks:** React, Node.js, Express, Next.js  
+- **Databases:** MongoDB, PostgreSQL  
+- **Tools:** Git, Docker, AWS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 What I'm Working On
+- 🔐 Building authentication systems with Node & MongoDB
+- 🧠 Learning more about scalable backend architecture
+- 💡 Always exploring new tech
+
+---
+
+### 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/shawn-e-678735380/) | [Portfolio](https://shawnedholmesportfolio.netlify.app/) | [Email](sed45823@gmail.com)
+
+---
+
+### 🏆 GitHub Stats
+
+![Shawn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawnholmes&show_icons=true&theme=dark)
+
+
