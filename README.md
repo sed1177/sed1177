@@ -21,10 +21,4 @@
 ### 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/shawn-e-678735380/) | [Portfolio](https://shawnedholmesportfolio.netlify.app/) | [Email](sed45823@gmail.com)
 
----
-
-### 🏆 GitHub Stats
-
-![Shawn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawnholmes&show_icons=true&theme=dark)
-
 
