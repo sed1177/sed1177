@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Shawn!
+# Hi there, I'm Shawn!
 
-💻 Software Engineer | 🎯 Passion for Web & AI Development
+Software Engineer | Passion for Web & AI Development
 ---
 
 ### 🚀 Tech Stack
@@ -11,14 +11,14 @@
 
 ---
 
-### 📌 What I'm Working On
-- 🔐 Building authentication systems with Node & MongoDB
-- 🧠 Learning more about scalable backend architecture
-- 💡 Always exploring new tech
+### What I'm Currently Working On
+-  Building authentication systems with Node & MongoDB
+- Learning more about scalable backend architecture
+-  Always exploring new tech
 
 ---
 
-### 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/shawn-e-678735380/) | [Portfolio](https://shawnedholmesportfolio.netlify.app/) | [Email](sed45823@gmail.com)
+### Connect With Me
+[LinkedIn](https://www.linkedin.com/in/shawn-e-678735380/) | [Portfolio](https://shawnedholmesportfolio.netlify.app/) | [Email](sed45823@gmail.com) | [Bluesky]([sed45823@gmail.com](https://bsky.app/profile/shawnedh.bsky.social))
 
 
