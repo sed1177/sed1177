@@ -3,7 +3,7 @@
 Software Engineer | Passion for Web & AI Development
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 - **Languages:** JavaScript, TypeScript, Python, SQL  
 - **Frameworks:** React, Node.js, Express, Next.js  
 - **Databases:** MongoDB, PostgreSQL  
