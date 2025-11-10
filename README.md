@@ -2,6 +2,7 @@
 
 Software Engineer | Passion for Web & AI Development
 ---
+I’m a Software Engineer who loves turning ideas into full-stack web applications that make a difference.
 
 ### Tech Stack
 - **Languages:** JavaScript, TypeScript, Python, SQL  
